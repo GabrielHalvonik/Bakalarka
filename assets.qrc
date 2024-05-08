@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/meshes">
+        <file>assets/meshes/AppleTree.obj</file>
+        <file>assets/meshes/viking_room.obj</file>
+        <file>assets/meshes/cube.stl</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>assets/icons/move.png</file>
+        <file>assets/icons/rotation.png</file>
+        <file>assets/icons/scale.png</file>
+        <file>assets/icons/move_light.png</file>
+        <file>assets/icons/scale_light.png</file>
+        <file>assets/icons/rotation_light.png</file>
+    </qresource>
+    <qresource prefix="/shaders">
+        <file>assets/shaders/flash_shader.frag</file>
+        <file>assets/shaders/flash_shader.vert</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>assets/fonts/Noteworthy.ttc</file>
+    </qresource>
+    <qresource prefix="/exports">
+        <file>assets/exports/export_scheme.obj</file>
+    </qresource>
+</RCC>
